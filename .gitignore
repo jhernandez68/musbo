@@ -1,0 +1,12 @@
+node_modules
+dist
+.vscode
+.DS_Store
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+.idea
+.env*
+coverage
+*.local
+*.cache

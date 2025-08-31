@@ -1,0 +1,627 @@
+[
+  {
+    "id": "museo-del-oro",
+    "nombre": "Museo del Oro",
+    "categoria": "Historia",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Cra. 6 #15-88, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-18:00",
+      "mie": "09:00-18:00",
+      "jue": "09:00-18:00",
+      "vie": "09:00-18:00",
+      "sab": "10:00-19:00",
+      "dom": "10:00-17:00"
+    },
+    "diasGratuitos": [
+      "dom"
+    ],
+    "accesibilidad": [
+      "rampa",
+      "baño accesible"
+    ],
+    "descripcionCorta": "Colección de orfebrería prehispánica.",
+    "osmQuery": "Museo del Oro Bogotá",
+    "wikipediaTitle": "Museo_del_Oro_(Bogotá)",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Museo-del-Oro-Fachada_(27842494739).jpg",
+    "lat": 4.601919,
+    "lng": -74.072
+  },
+  {
+    "id": "museo-nacional",
+    "nombre": "Museo Nacional de Colombia",
+    "categoria": "Arte e Historia",
+    "barrio": "San Martín",
+    "localidad": "Santa Fe",
+    "direccion": "Cra. 7 #28-66, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-18:00",
+      "dom": "10:00-17:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "ascensor",
+      "baño accesible"
+    ],
+    "descripcionCorta": "El museo más antiguo de Colombia.",
+    "osmQuery": "Museo Nacional de Colombia",
+    "wikipediaTitle": "Museo_Nacional_de_Colombia"
+  },
+  {
+    "id": "mambo",
+    "nombre": "Museo de Arte Moderno de Bogotá (MAMBO)",
+    "categoria": "Arte moderno",
+    "barrio": "San Diego",
+    "localidad": "Santa Fe",
+    "direccion": "Cll. 24 #6-00, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-18:00",
+      "mie": "10:00-18:00",
+      "jue": "10:00-18:00",
+      "vie": "10:00-18:00",
+      "sab": "11:00-19:00",
+      "dom": "11:00-17:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Arte moderno y contemporáneo en Bogotá.",
+    "osmQuery": "MAMBO Bogotá",
+    "wikipediaTitle": "Museo_de_Arte_Moderno_de_Bogotá"
+  },
+  {
+    "id": "museo-botero",
+    "nombre": "Museo Botero",
+    "categoria": "Arte",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Cll. 11 #4-41, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [
+      "mar",
+      "mie",
+      "jue",
+      "vie",
+      "sab",
+      "dom"
+    ],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Colección donada por Fernando Botero.",
+    "osmQuery": "Museo Botero Bogotá",
+    "wikipediaTitle": "Museo_Botero"
+  },
+  {
+    "id": "museo-de-bogota",
+    "nombre": "Museo de Bogotá",
+    "categoria": "Historia urbana",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 4 #10-18, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-18:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Historia y memoria de la ciudad.",
+    "osmQuery": "Museo de Bogotá",
+    "wikipediaTitle": "Museo_de_Bogotá"
+  },
+  {
+    "id": "casa-del-florero",
+    "nombre": "Museo de la Independencia - Casa del Florero",
+    "categoria": "Historia",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 7 #11-28, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Símbolo del Grito de Independencia.",
+    "osmQuery": "Casa del Florero Bogotá",
+    "wikipediaTitle": "Museo_de_la_Independencia_Casa_del_Florero",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Av._7_Casa_Florero_2.JPG",
+    "lat": 4.59835,
+    "lng": -74.0751
+  },
+  {
+    "id": "museo-santa-clara",
+    "nombre": "Museo Santa Clara",
+    "categoria": "Arte religioso",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 8 #8-91, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-16:30",
+      "mie": "09:00-16:30",
+      "jue": "09:00-16:30",
+      "vie": "09:00-16:30",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Templo-museo del periodo colonial.",
+    "osmQuery": "Museo Santa Clara Bogotá",
+    "wikipediaTitle": "Iglesia_Museo_Santa_Clara",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Iglesia_de_Santa_Clara_-_Fachada_1_-_Bogot%C3%A1.jpg",
+    "lat": 4.596669,
+    "lng": -74.077219
+  },
+  {
+    "id": "museo-colonial",
+    "nombre": "Museo Colonial",
+    "categoria": "Historia y arte",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 6 #9-77, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-16:30",
+      "mie": "09:00-16:30",
+      "jue": "09:00-16:30",
+      "vie": "09:00-16:30",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Arte y cultura del periodo colonial.",
+    "osmQuery": "Museo Colonial Bogotá",
+    "wikipediaTitle": "Museo_Colonial_de_Bogotá",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/be/Museo_Colonial_Bogota.jpg",
+    "lat": 4.596511,
+    "lng": -74.0753
+  },
+  {
+    "id": "quinta-de-bolivar",
+    "nombre": "Casa Museo Quinta de Bolívar",
+    "categoria": "Historia",
+    "barrio": "Bosque Izquierdo",
+    "localidad": "Santa Fe",
+    "direccion": "Calle 21 #4A-30, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Residencia de Simón Bolívar en Bogotá.",
+    "osmQuery": "Quinta de Bolívar Bogotá",
+    "wikipediaTitle": "Casa_Quinta_de_Bolívar",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/39/Fachada_de_la_casa_museo_Quinta_de_Bol%C3%ADvar.JPG",
+    "lat": 4.602706,
+    "lng": -74.063013
+  },
+  {
+    "id": "planetario",
+    "nombre": "Planetario de Bogotá",
+    "categoria": "Ciencia",
+    "barrio": "Centro Internacional",
+    "localidad": "Santa Fe",
+    "direccion": "Calle 26B #5-93, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-18:00",
+      "mie": "10:00-18:00",
+      "jue": "10:00-18:00",
+      "vie": "10:00-18:00",
+      "sab": "10:00-19:00",
+      "dom": "10:00-17:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa",
+      "baño accesible"
+    ],
+    "descripcionCorta": "Divulgación de astronomía y ciencia.",
+    "osmQuery": "Planetario de Bogotá",
+    "wikipediaTitle": "Planetario_de_Bogotá"
+  },
+  {
+    "id": "maloka",
+    "nombre": "Maloka Museo Interactivo",
+    "categoria": "Ciencia y tecnología",
+    "barrio": "Ciudad Salitre Occidental",
+    "localidad": "Fontibón",
+    "direccion": "Cra. 68D #24A-51, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-18:00",
+      "dom": "10:00-17:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa",
+      "baño accesible"
+    ],
+    "descripcionCorta": "Experiencias interactivas de ciencia.",
+    "osmQuery": "Maloka Bogotá",
+    "wikipediaTitle": "Maloka_(Bogotá)",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/92/Maloka_in_Bogot%C3%A1_Colombia.jpg",
+    "lat": 4.65538,
+    "lng": -74.1095
+  },
+  {
+    "id": "museo-esmeralda",
+    "nombre": "Museo Internacional de la Esmeralda",
+    "categoria": "Minería y geología",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Calle 16 #5-66, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "09:00-17:00",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "Cerrado"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "ascensor"
+    ],
+    "descripcionCorta": "Origen y talla de esmeraldas en Colombia.",
+    "osmQuery": "Museo de la Esmeralda Bogotá",
+    "wikipediaTitle": "Museo_Internacional_de_la_Esmeralda",
+    "imagen": "https://bogota.gov.co/sites/default/files/u3878/Esmeraldsas%20en%20pinza.jpg",
+    "lat": 4.602711,
+    "lng": -74.072295
+  },
+  {
+    "id": "museo-militar",
+    "nombre": "Museo Militar de Colombia",
+    "categoria": "Historia militar",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Calle 10 #4-92, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-16:00",
+      "mie": "09:00-16:00",
+      "jue": "09:00-16:00",
+      "vie": "09:00-16:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Patrimonio y memoria de las fuerzas militares.",
+    "osmQuery": "Museo Militar de Colombia",
+    "wikipediaTitle": "Museo_Militar_de_Colombia"
+  },
+  {
+    "id": "mamu",
+    "nombre": "Museo de Arte Miguel Urrutia (MAMU)",
+    "categoria": "Arte",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Calle 11 #4-41, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [
+      "mar",
+      "mie",
+      "jue",
+      "vie",
+      "sab",
+      "dom"
+    ],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Colecciones del Banco de la República.",
+    "osmQuery": "Museo de Arte Miguel Urrutia",
+    "wikipediaTitle": "Museo_de_Arte_Miguel_Urrutia"
+  },
+  {
+    "id": "museo-chico",
+    "nombre": "Museo del Chicó",
+    "categoria": "Historia y patrimonio",
+    "barrio": "Santa Bárbara",
+    "localidad": "Usaquén",
+    "direccion": "Cra. 7 #93-01, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-18:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Hacienda colonial y jardines.",
+    "osmQuery": "Museo del Chicó Bogotá",
+    "wikipediaTitle": "Museo_del_Chicó"
+  },
+  {
+    "id": "museo-policia",
+    "nombre": "Museo de la Policía Nacional",
+    "categoria": "Historia",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 9 #9-27, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-16:00",
+      "mie": "09:00-16:00",
+      "jue": "09:00-16:00",
+      "vie": "09:00-16:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Historia institucional de la Policía.",
+    "osmQuery": "Museo de la Policía Bogotá",
+    "wikipediaTitle": "Museo_de_la_Policía_de_Colombia",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Escudo_Polic%C3%ADa_Nacional_de_Colombia.jpg",
+    "lat": 4.59655,
+    "lng": -74.07325
+  },
+  {
+    "id": "museo-vidrio",
+    "nombre": "Museo del Vidrio de Bogotá",
+    "categoria": "Patrimonio y oficios",
+    "barrio": "San Cristóbal",
+    "localidad": "San Cristóbal",
+    "direccion": "Calle 9 Sur #5-60 Este, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-17:00",
+      "mie": "10:00-17:00",
+      "jue": "10:00-17:00",
+      "vie": "10:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Memoria del barrio de los vidrieros.",
+    "osmQuery": "Museo del Vidrio de Bogotá",
+    "wikipediaTitle": "Museo_del_Vidrio_de_Bogotá",
+    "imagen": "",
+    "lat": 4.57668,
+    "lng": -74.0804
+  },
+  {
+    "id": "museo-arqueologico-san-jorge",
+    "nombre": "Museo Arqueológico Casa del Marqués de San Jorge",
+    "categoria": "Arqueología",
+    "barrio": "La Candelaria",
+    "localidad": "La Candelaria",
+    "direccion": "Carrera 6 #7-43, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "10:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Colección arqueológica y casa colonial.",
+    "osmQuery": "Museo Arqueológico Marqués de San Jorge",
+    "wikipediaTitle": "Museo_Arqueológico_Casa_del_Marqués_de_San_Jorge"
+  },
+  {
+    "id": "casa-museo-gaitan",
+    "nombre": "Casa Museo Jorge Eliécer Gaitán",
+    "categoria": "Historia",
+    "barrio": "Teusaquillo",
+    "localidad": "Teusaquillo",
+    "direccion": "Carrera 15 #42-47, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "09:00-17:00",
+      "mie": "09:00-17:00",
+      "jue": "09:00-17:00",
+      "vie": "09:00-17:00",
+      "sab": "10:00-16:00",
+      "dom": "Cerrado"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Vida y legado de Gaitán.",
+    "osmQuery": "Casa Museo Jorge Eliécer Gaitán Bogotá",
+    "wikipediaTitle": "Casa_Museo_Jorge_Eliécer_Gaitán"
+  },
+  {
+    "id": "mac-bogota",
+    "nombre": "Museo de Arte Contemporáneo de Bogotá (MAC)",
+    "categoria": "Arte contemporáneo",
+    "barrio": "Minuto de Dios",
+    "localidad": "Engativá",
+    "direccion": "Calle 81C #73-44, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-18:00",
+      "mie": "10:00-18:00",
+      "jue": "10:00-18:00",
+      "vie": "10:00-18:00",
+      "sab": "11:00-17:00",
+      "dom": "11:00-16:00"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Colecciones y exposiciones contemporáneas.",
+    "osmQuery": "MAC Bogotá",
+    "wikipediaTitle": "Museo_de_Arte_Contemporáneo_de_Bogotá"
+  },
+  {
+    "id": "museo-arte-un",
+    "nombre": "Museo de Arte - Universidad Nacional",
+    "categoria": "Arte",
+    "barrio": "Ciudad Universitaria",
+    "localidad": "Teusaquillo",
+    "direccion": "Carrera 30 #45-03, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-18:00",
+      "mie": "10:00-18:00",
+      "jue": "10:00-18:00",
+      "vie": "10:00-18:00",
+      "sab": "11:00-17:00",
+      "dom": "Cerrado"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "rampa"
+    ],
+    "descripcionCorta": "Exposiciones y colecciones universitarias.",
+    "osmQuery": "Museo de Arte Universidad Nacional Bogotá",
+    "wikipediaTitle": "Museo_de_Arte_(Universidad_Nacional_de_Colombia)",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/be/Museo_Colonial_Bogota.jpg",
+    "lat": 4.634444,
+    "lng": -74.080833
+  },
+  {
+    "id": "museo-judio",
+    "nombre": "Museo Judío de Colombia",
+    "categoria": "Historia y cultura",
+    "barrio": "Chapinero",
+    "localidad": "Chapinero",
+    "direccion": "Calle 92 #19-28, Bogotá",
+    "telefono": "",
+    "sitioWeb": "",
+    "horarios": {
+      "lun": "Cerrado",
+      "mar": "10:00-17:00",
+      "mie": "10:00-17:00",
+      "jue": "10:00-17:00",
+      "vie": "10:00-16:00",
+      "sab": "10:00-14:00",
+      "dom": "Cerrado"
+    },
+    "diasGratuitos": [],
+    "accesibilidad": [
+      "ascensor"
+    ],
+    "descripcionCorta": "Historia y cultura de la comunidad judía en Colombia.",
+    "osmQuery": "Museo Judío de Colombia Bogotá",
+    "wikipediaTitle": "Museo_Judío_de_Colombia",
+    "imagen": "",
+    "lat": 4.71,
+    "lng": -74.06
+  }
+]
